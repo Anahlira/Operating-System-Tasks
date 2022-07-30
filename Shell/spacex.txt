@@ -1,0 +1,6 @@
+date|laynch site|outcome|payload
+1291759200|CCAFS|Success|Dragon demo bura
+1435438800|CCAFS|Failure|SpaceX CRS-7
+1473454800|CCAFS|Failure|Amos-6
+1498165200|KSC|Success|BulgariaSat-1
+1517868000|KSC|success|Tesla 3
