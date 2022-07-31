@@ -1,0 +1,5 @@
+foo=73
+bar=42 56
+baz=
+eo=a b c hello
+eoe=c hello e f
