@@ -1,0 +1,8 @@
+not num 054
+-42
+111
+-333 to pass a semester
+-111
+111
+22
+ok
