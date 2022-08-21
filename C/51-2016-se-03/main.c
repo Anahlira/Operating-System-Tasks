@@ -28,7 +28,7 @@ int main(const int argc,const char * argv[]){
 	if(st.st_size > (long int)(100000000 * sizeof(uint32_t))){
 		errx(3,"File is too big");
 	}
-	if(st.st_size % sizeof(uint32_t) == 0){
+	if(st.st_size % sizeof(uint32_t) != 0){
 		errx(3,"file is wrong format");
 	}
 	
